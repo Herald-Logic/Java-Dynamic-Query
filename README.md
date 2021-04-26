@@ -1,4 +1,4 @@
-# RDBMS Proxy
+# Java-Dynamic-Query
 
 - Have properties file having the following properties
 
