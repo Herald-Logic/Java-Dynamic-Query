@@ -7,7 +7,7 @@
 	#DB.CONNECTION.TYPE=SIMPLEDBCONNECTION/POOLEDDBCONNECTION
 	DB.CONNECTION.TYPE=POOLEDDBCONNECTION
 	DB.DRIVER=org.postgresql.Driver
-	DB.URL=jdbc:postgresql://cluster-hdfc-nonprd-1.cluster-cjeafljzaii3.ap-south-1.rds.amazonaws.com:5434/HDFC_DEV
+	DB.URL=jdbc:postgresql://***:***/***
 	DB.USERNAME=#####
 	DB.PASSWORD=####
 	DB.POOL.INITIAL.SIZE=5
