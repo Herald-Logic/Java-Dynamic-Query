@@ -1,0 +1,11 @@
+stages:
+  - build
+
+maven-build:
+  image: maven:3-jdk-8
+  stage: build
+  tags:
+    - rtb-qa
+  script:
+    - sh build.sh
+  when : manual
