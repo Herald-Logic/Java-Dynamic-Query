@@ -5,8 +5,7 @@
 
 	<groupId>com.hl.utilities</groupId>
 	<artifactId>db</artifactId>
-	<!-- <version>2.0.1.0</version> -->
-	<version>2.0.0.0</version>
+	<version>2.0.1.0</version>
 	<packaging>jar</packaging>
 
 	<name>HLDatabaseUtil</name>
